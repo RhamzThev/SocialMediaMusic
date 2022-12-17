@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "social-media-music": {
+      "hosting": {
+        "src": [
+          "social-media-music"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "social-media-music"
+  }
+}
